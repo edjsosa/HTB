@@ -124,7 +124,7 @@ SELECT expression(s) involving keywords, identifiers, and constants
 FROM tabular structure(s)
 ```
 
-#### 'SELECT' 1 column
+#### SELECT 1 column
 
 ```
 SELECT
@@ -133,7 +133,7 @@ FROM
   teams
 ```
 
-#### 'SELECT' multiple columns
+#### SELECT multiple columns
 
 ```
 SELECT
@@ -142,7 +142,7 @@ FROM
   teams
 ```
 
-#### 'SELECT' every column
+#### SELECT every column
 
 ```
 SELECT
